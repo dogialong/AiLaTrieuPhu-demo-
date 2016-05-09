@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#333333"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp"
+     >
+
+    <ImageView
+        android:id="@+id/countryimage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/logo_ai_la_trieu_phu" />
+
+    <Button
+    android:id="@+id/btnBatdau"
+    android:background="@drawable/blue_button"
+    style="@style/button_text"
+    android:text="Bắt đầu"
+     />
+
+
+    <Button
+        android:id="@+id/btnHuongdan"
+        android:background="@drawable/blue_button"
+    	style="@style/button_text"
+        android:text="Hướng dẫn" />
+
+    <!--<Button
+        android:id="@+id/btnDiemcao"
+        android:background="@drawable/blue_button"
+    style="@style/button_text"
+        android:text="Điểm cao" />-->
+
+    <Button
+        android:id="@+id/btnThoat"
+        android:background="@drawable/blue_button"
+    style="@style/button_text"
+        android:text="Thoát" />
+
+    
+
+</LinearLayout>

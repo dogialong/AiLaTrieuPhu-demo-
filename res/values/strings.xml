@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ai la trieu phu (Longdg)</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hd">Bạn phải vượt qua 15 câu hỏi của chương trình trả lời đúng có thể trả lời câu tiếp theo, trả lời sai sẽ thua cuộc và bị trừ điểm có thể xin dừng cuộc chơi để bảo toàn số điểm</string>
+
+</resources>
